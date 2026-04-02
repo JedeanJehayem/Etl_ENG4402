@@ -1,5 +1,5 @@
 #Consolidação e Padronização de Bases de Prestadores
-
+## CODIGO GERADO POR IA ##
 ## 📝 Descrição
 Este projeto realiza o processo de transformação e consolidação de três bases de prestadores de saúde em um único arquivo CSV padronizado. O foco principal é a **qualidade, consistência e preparação dos dados** para análise posterior.
 
