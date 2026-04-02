@@ -1,4 +1,4 @@
-# [cite_start]Consolidação e Padronização de Bases de Prestadores [cite: 1]
+# Consolidação e Padronização de Bases de Prestadores
 
 ## 📝 Descrição
 [cite_start]Este projeto realiza o processo de transformação e consolidação de três bases de prestadores de saúde em um único arquivo CSV padronizado[cite: 1]. [cite_start]O foco principal é a **qualidade, consistência e preparação dos dados** para análise posterior[cite: 1].
